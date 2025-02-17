@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"U Arduino Uno",1," Arduino Uno R3"
+"SENSoil Moisture Sensor",1," Soil Moisture Sensor"
+"MDC Motor",1," DC Motor"
+"Qtransistor",1," TIP120"
+"Ddiode",1," Diode"
+"Dled",1,"RCBG LED RGB"
+"Rresistor 3, Rresistor 2",2,"200 Ω Resistor"
